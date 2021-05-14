@@ -1,0 +1,22 @@
+{
+  "hits": [
+    {
+      "title": "Sample X",
+      "url": "https://example.com/x",
+      "author": "Author X",
+      "objectID": 2
+    },
+    {
+      "title": "Sample Y",
+      "url": "https://example.com/y",
+      "author": "Author Y",
+      "objectID": 3
+    },
+    {
+      "title": "Sample Y",
+      "url": "https://example.com/y",
+      "author": "Author Y",
+      "objectID": 4
+    }
+  ]
+}
